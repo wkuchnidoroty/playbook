@@ -11,15 +11,24 @@ showEdit: false
 layoutBackgroundHeaderSpace: true
 showTableOfContents: false
 paginate: 0
+#showHero: false
+#heroStyle: "basic" # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundHeaderSpace: false # only used when heroStyle equals background
+showPagination: false
+sharingLinks: [""]
 ---
 
 Cześć, jestem Dorota.
 
 <style>
 
+h1 {
+    line-height: 5.2em;
+}
+
 .image-cropper {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
