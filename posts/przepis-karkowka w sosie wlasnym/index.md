@@ -10,7 +10,7 @@ categories:
 tags:
     - karkówka
 ---
-{{< katex >}}
+
 
 ## Karkówka w sosie własnym
 
