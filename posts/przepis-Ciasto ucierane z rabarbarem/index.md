@@ -6,9 +6,9 @@ date: 2023-06-02
 draft: false
 
 categories:
-    - ciasto
+    - deser
 tags:
-    - ucierane
+    - ciasto
 ---
 
 ## Ciasto ucierane z rabarbarem 

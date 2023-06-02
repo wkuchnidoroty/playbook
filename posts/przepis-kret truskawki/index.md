@@ -4,9 +4,9 @@ date: 2023-05-29
 draft: false
 
 categories:
-    - ciasta
+    - deser
 tags:
-    - czekolada
+    - ciasto
 ---
 {{< katex >}}
 
