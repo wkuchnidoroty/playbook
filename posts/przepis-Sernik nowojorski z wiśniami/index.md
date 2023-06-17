@@ -1,4 +1,4 @@
-
+---
 title: "Sernik Nowojorski z wiśniami"
 date: 2023-06-02
 draft: false
@@ -10,7 +10,6 @@ tags:
 ---
 
 ## Spód
-
 
 * 300g zmiksowanych ciastek oreo
 * 80g roztopionego masła
