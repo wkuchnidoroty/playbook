@@ -75,5 +75,6 @@ w masę wbijamy ptasie mleczko u mnie smak karmelowy.
 Przykrywamy drugim biszkoptem, który również smarujemy dżemem porzeczkowym na nim układamy delicje jagodowe i wykladamy resztę masy biszkoptowej.
 Na wierzch kruszymy odkrojony kawałek biszkopta i posypujemy odrobiną kokosu.
 
+{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}
 
 ## smacznego!!!
