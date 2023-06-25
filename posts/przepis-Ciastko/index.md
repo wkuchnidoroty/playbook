@@ -1,7 +1,7 @@
 
 
 ---
-title: "Ni bułka, ni ciastko?"
+title: "Ciastko"
 date: 2023-06-25
 draft: false
 
@@ -11,7 +11,7 @@ tags:
     - deser
 ---
 
-## Przygotowujemy
+## Ciastko
 
 Dzień dobry kochani na słodko.
 
