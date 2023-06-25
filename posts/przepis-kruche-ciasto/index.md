@@ -1,7 +1,7 @@
 
 
 ---
-title: "Ciastko"
+title: "Kruche ciasto"
 date: 2023-06-25
 draft: false
 
@@ -10,8 +10,6 @@ categories:
 tags:
     - deser
 ---
-
-## Ciastko
 
 Dzień dobry kochani na słodko.
 
@@ -53,4 +51,4 @@ Wystudzone polałam lekko podgrzaną nutellą I lukrem zrobionym z soku z cytryn
 
 # Zdjecia
 
-{{< 1zdj.jpeg >}}
+{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}

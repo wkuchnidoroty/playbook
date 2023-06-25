@@ -56,4 +56,4 @@ Teraz zostaje nam tylko wyjąć go z naczynia na jakąś kratkę do wystygnięci
 
 # Zdjecia
 
-{{< carousel images="*" featured.jpeg >}}
+{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}
