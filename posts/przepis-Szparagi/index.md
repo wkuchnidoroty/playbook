@@ -35,3 +35,7 @@ Posypujemy po wierzchu pokrojonym, podsmażonym wcześniej boczkiem.
 Zapiekamy w 190 st ok 10 minut
 
 Smacznego !!!
+
+## Zdjęcia
+
+{{< carousel images="*" aspectRatio="16-9" interval="2500" >}}
